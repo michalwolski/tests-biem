@@ -1,0 +1,89 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestAll">
+
+	<test name="change_password_fail_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+	
+	<test name="change_password_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+
+	<test name="connect_partner_fail_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+
+	<test name="get_tested_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+
+	<test name="login_fail_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+
+	<test name="login_logout_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+	
+	<test name="login_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+
+	<test name="set_def_lab_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+
+	<test name="set_def_pharmacy_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+
+	<test name="set_health_insurance_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+
+	<test name="show_results_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+
+	<test name="signup_fail_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+
+	<test name="signup_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+
+	<test name="swipe_test">  
+		<classes>
+			<class name="Biem.Swipe" />
+		</classes>
+	</test>
+	
+</suite>
